@@ -25,10 +25,6 @@
   <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emadresam4444-ux&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emadresam4444-ux&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-</p>
 
 <h3>Find Me Here</h3>
 <p align="center">
