@@ -19,6 +19,9 @@
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/></a>
   <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50"/></a>
   <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/></a>
+  <a href="https://www.npmjs.com">
+  <a href="https://www.npmjs.com">
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50"/></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/></a>
