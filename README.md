@@ -30,7 +30,7 @@
 <h3 align="center">Find Me Here</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1_IoFDus3fkYbu22wvwFHJmOMdzGfsDFU/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1meDlCGnYBPfw_h6Nma-BISLwFl7I76Lu/view?usp=sharing" target="_blank">
     <img alt="My Resume" src="https://img.shields.io/badge/My%20Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
 
